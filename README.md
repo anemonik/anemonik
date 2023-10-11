@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @HexyHack, low-effort work is my second name /s
-- I know basics of HTML, CSS and JavaScript.
+- I know HTML, CSS and basic Python.
 - Beginning user of Linux, experienced user of Windows.
-- My next goal: learning Python and C#
+- Learning: Python and R
 
-<a href="https://hexyhack.github.io/">My website</a>
+<a href="https://hexyhack.github.io/">My website</a> (temporarily down)
 
 <!---
 HexyHack/HexyHack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
