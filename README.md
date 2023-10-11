@@ -3,7 +3,7 @@
 - Beginning user of Linux, experienced user of Windows.
 - Learning: Python and R
 
-<a href="https://hexyhack.github.io/">My website</a> (temporarily down)
+<a href="https://hexyhack.github.io/">My website</a> (temporarily closed)
 
 <!---
 HexyHack/HexyHack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
