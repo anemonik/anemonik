@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HexyHack, low-effort work is my second name /s
 - I know HTML, CSS and basic Python.
-- Beginning user of Linux, experienced user of Windows.
+- Experienced user of Windows and Linux (kinda).
 - Learning: Python and R
 
 <a href="https://hexyhack.github.io/">My website</a> (temporarily closed)
