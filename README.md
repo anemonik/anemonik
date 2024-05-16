@@ -2,10 +2,10 @@
 
 
 ```sh
-~/Dyzean: fetch.sh
+~/OmoHex: fetch.sh
 ```
 
-<img align="left" src="[https://github.com/Dyzean.png](https://github.com/omohex/OmoHex/blob/main/logopfp.png)" width="411" />
+<img align="left" src="https://github.com/omohex.png" width="411" />
 
 ```haskell
 omohex@github
