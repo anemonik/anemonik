@@ -5,7 +5,7 @@
 ~/OmoHex: fetch.sh
 ```
 
-<img align="left" src="https://github.com/omohex.png" width="411" />
+<img align="left" src="https://github.com/omohex.png" width="275" />
 
 ```haskell
 omohex@github
