@@ -19,7 +19,7 @@ hobbies   • gaming, code, ricing,
             watching anime, drink coffee.
 
 skills    • html, css, python, oracle sql
-learning  • java 
+learning  •  
 
 ```
 
