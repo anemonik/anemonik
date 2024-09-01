@@ -10,9 +10,7 @@
 ```haskell
 omohex@github
 ------------------------------
-os        • win 11 & archlinux
-shell     • zsh
-wms       • xfce
+os        • win 11 & debian 12
 
 pronouns  • he/him
 hobbies   • gaming, code, ricing,
