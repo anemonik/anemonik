@@ -5,7 +5,7 @@
 ~/anemonik: fetch.sh
 ```
 
-<img align="left" src="https://github.com/omohex.png" width="275" />
+<img align="left" src="https://github.com/anemonik.png" width="275" />
 
 ```haskell
 anemonik@github
