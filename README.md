@@ -2,13 +2,13 @@
 
 
 ```sh
-~/OmoHex: fetch.sh
+~/anemonik: fetch.sh
 ```
 
 <img align="left" src="https://github.com/omohex.png" width="275" />
 
 ```haskell
-omohex@github
+anemonik@github
 ------------------------------
 os        • win 11 & debian 12
 
